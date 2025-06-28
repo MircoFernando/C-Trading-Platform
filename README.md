@@ -31,6 +31,6 @@ While building this project, I explored and practiced:
 To compile and run the program:
 
 ```bash
-g++ -std=c++17 tradingmain.cpp OrderBook.cpp OrderBookEntry.cpp -o tradingapp
+g++ -std=c++17 main.cpp tradingmain.cpp OrderBook.cpp OrderBookEntry.cpp -o tradingapp
 ./tradingapp
 
