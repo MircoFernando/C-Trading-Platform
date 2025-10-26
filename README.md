@@ -1,4 +1,4 @@
-# C-Trading-Platform
+# C++ -Trading-Platform
 
 # Simplified Cryptocurrency Exchange Platform
 
